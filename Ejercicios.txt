@@ -1,0 +1,13 @@
+4
+	En el diagrma no podemos expresar por ejemplo:
+	Cuando un músico no interpreta una canción pero sí produce un disco, según el diagrama, el album producido está compuesto por una o más canciones, éstas interpretadas por un autor (el mismo productor del album), es decir, "Album" requiere de al menos una "Canción", sin embargo, en un principio dijimos que el músico no interpreta ninguna.
+
+5
+	No se puede expresar que cada avión solo le pueda realizar una prueba un técnico que sea experto en ese modelo de avión, ya que un ténico es experto en varios modelos, según nuestro diagrama el técnico experto en un modelo puede realizar pruebas a otro avión de otro modelo (algo no coherente).
+
+6 
+	6.1
+	Incluir un atributo "Precio" a Mediacamento, así todas las farmacias tendrán que vender el medicamento a ese precio.
+
+	6.2
+	Quitar el atributo "Última fecha", así guardamos todos.

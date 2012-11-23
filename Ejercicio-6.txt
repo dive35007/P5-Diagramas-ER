@@ -1,0 +1,6 @@
+6 
+	6.1
+	Incluir un atributo "Precio" a Mediacamento, así todas las farmacias tendrán que vender el medicamento a ese precio.
+
+	6.2
+	Quitar el atributo "Última fecha", así guardamos todos.

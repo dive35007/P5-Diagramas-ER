@@ -1,0 +1,2 @@
+5
+	No se puede expresar que cada avión solo le pueda realizar una prueba un técnico que sea experto en ese modelo de avión, ya que un ténico es experto en varios modelos, según nuestro diagrama el técnico experto en un modelo puede realizar pruebas a otro avión de otro modelo (algo no coherente).

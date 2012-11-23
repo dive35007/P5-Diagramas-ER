@@ -1,0 +1,4 @@
+4
+	En el diagrma no podemos expresar por ejemplo:
+	Cuando un músico no interpreta una canción pero sí produce un disco, según el diagrama, el album producido está compuesto por una o más canciones, éstas interpretadas por un autor (el mismo productor del album), es decir, "Album" requiere de al menos una "Canción", sin embargo, en un principio dijimos que el músico no interpreta ninguna.
+
